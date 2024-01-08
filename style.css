@@ -23,3 +23,17 @@ h2{
     grid-template-columns: repeat(4, 1fr);
 }
 
+
+img{
+     height:295px;
+      width:480px;
+ }
+     
+
+
+@media (max-width: 700){
+    img{
+        width:336px;
+        height:206px;
+    }
+}
