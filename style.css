@@ -38,7 +38,7 @@ h2{
     box-shadow: black 30px 30px;
 }
 
-#ps{
+.ps{
     width: 12vw +5px;
     height: 16vh +5px;
     border-color: rgb(51, 1, 92);
