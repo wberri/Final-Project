@@ -53,4 +53,20 @@ img{
      height:100%;
       width:100%;
  }
+
+#buttoncontainer{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+ button{
+    font-size: 40px;
+    color: rgba(88, 216, 255, 0.596);
+    border: 2px solid;
+    border-color: blue;
+    text-shadow: rgb(2, 0, 117) 2px 5px;
+    background-color:darkorchid;
+    width: 160px;
+    height: 80px;
+ }
      
